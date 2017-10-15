@@ -1,2 +1,2 @@
 # ScoreBoard
-for Valleyball
+for Volleyball
